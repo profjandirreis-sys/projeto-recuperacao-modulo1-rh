@@ -1,0 +1,107 @@
+employee_id,first_name,last_name,department_name,city,state_province,country_id,country_name,region_name
+201,Michael,Martinez,Marketing,Toronto,Ontario,CA,Canada,Americas
+202,Pat,Davis,Marketing,Toronto,Ontario,CA,Canada,Americas
+100,Steven,King,Executive,Seattle,Washington,US,United States of America,Americas
+101,Neena,Yang,Executive,Seattle,Washington,US,United States of America,Americas
+102,Lex,Garcia,Executive,Seattle,Washington,US,United States of America,Americas
+108,Nancy,Gruenberg,Finance,Seattle,Washington,US,United States of America,Americas
+109,Daniel,Faviet,Finance,Seattle,Washington,US,United States of America,Americas
+110,John,Chen,Finance,Seattle,Washington,US,United States of America,Americas
+111,Ismael,Sciarra,Finance,Seattle,Washington,US,United States of America,Americas
+112,Jose Manuel,Urman,Finance,Seattle,Washington,US,United States of America,Americas
+113,Luis,Popp,Finance,Seattle,Washington,US,United States of America,Americas
+114,Den,Li,Purchasing,Seattle,Washington,US,United States of America,Americas
+115,Alexander,Khoo,Purchasing,Seattle,Washington,US,United States of America,Americas
+116,Shelli,Baida,Purchasing,Seattle,Washington,US,United States of America,Americas
+117,Sigal,Tobias,Purchasing,Seattle,Washington,US,United States of America,Americas
+118,Guy,Himuro,Purchasing,Seattle,Washington,US,United States of America,Americas
+119,Karen,Colmenares,Purchasing,Seattle,Washington,US,United States of America,Americas
+200,Jennifer,Whalen,Administration,Seattle,Washington,US,United States of America,Americas
+205,Shelley,Higgins,Accounting,Seattle,Washington,US,United States of America,Americas
+206,William,Gietz,Accounting,Seattle,Washington,US,United States of America,Americas
+120,Matthew,Weiss,Shipping,South San Francisco,California,US,United States of America,Americas
+121,Adam,Fripp,Shipping,South San Francisco,California,US,United States of America,Americas
+122,Payam,Kaufling,Shipping,South San Francisco,California,US,United States of America,Americas
+123,Shanta,Vollman,Shipping,South San Francisco,California,US,United States of America,Americas
+124,Kevin,Mourgos,Shipping,South San Francisco,California,US,United States of America,Americas
+125,Julia,Nayer,Shipping,South San Francisco,California,US,United States of America,Americas
+126,Irene,Mikkilineni,Shipping,South San Francisco,California,US,United States of America,Americas
+127,James,Landry,Shipping,South San Francisco,California,US,United States of America,Americas
+128,Steven,Markle,Shipping,South San Francisco,California,US,United States of America,Americas
+129,Laura,Bissot,Shipping,South San Francisco,California,US,United States of America,Americas
+130,Mozhe,Atkinson,Shipping,South San Francisco,California,US,United States of America,Americas
+131,James,Marlow,Shipping,South San Francisco,California,US,United States of America,Americas
+132,TJ,Olson,Shipping,South San Francisco,California,US,United States of America,Americas
+133,Jason,Mallin,Shipping,South San Francisco,California,US,United States of America,Americas
+134,Michael,Rogers,Shipping,South San Francisco,California,US,United States of America,Americas
+135,Ki,Gee,Shipping,South San Francisco,California,US,United States of America,Americas
+136,Hazel,Philtanker,Shipping,South San Francisco,California,US,United States of America,Americas
+137,Renske,Ladwig,Shipping,South San Francisco,California,US,United States of America,Americas
+138,Stephen,Stiles,Shipping,South San Francisco,California,US,United States of America,Americas
+139,John,Seo,Shipping,South San Francisco,California,US,United States of America,Americas
+140,Joshua,Patel,Shipping,South San Francisco,California,US,United States of America,Americas
+141,Trenna,Rajs,Shipping,South San Francisco,California,US,United States of America,Americas
+142,Curtis,Davies,Shipping,South San Francisco,California,US,United States of America,Americas
+143,Randall,Matos,Shipping,South San Francisco,California,US,United States of America,Americas
+144,Peter,Vargas,Shipping,South San Francisco,California,US,United States of America,Americas
+180,Winston,Taylor,Shipping,South San Francisco,California,US,United States of America,Americas
+181,Jean,Fleaur,Shipping,South San Francisco,California,US,United States of America,Americas
+182,Martha,Sullivan,Shipping,South San Francisco,California,US,United States of America,Americas
+183,Girard,Geoni,Shipping,South San Francisco,California,US,United States of America,Americas
+184,Nandita,Sarchand,Shipping,South San Francisco,California,US,United States of America,Americas
+185,Alexis,Bull,Shipping,South San Francisco,California,US,United States of America,Americas
+186,Julia,Dellinger,Shipping,South San Francisco,California,US,United States of America,Americas
+187,Anthony,Cabrio,Shipping,South San Francisco,California,US,United States of America,Americas
+188,Kelly,Chung,Shipping,South San Francisco,California,US,United States of America,Americas
+189,Jennifer,Dilly,Shipping,South San Francisco,California,US,United States of America,Americas
+190,Timothy,Venzl,Shipping,South San Francisco,California,US,United States of America,Americas
+191,Randall,Perkins,Shipping,South San Francisco,California,US,United States of America,Americas
+192,Sarah,Bell,Shipping,South San Francisco,California,US,United States of America,Americas
+193,Britney,Everett,Shipping,South San Francisco,California,US,United States of America,Americas
+194,Samuel,McLeod,Shipping,South San Francisco,California,US,United States of America,Americas
+195,Vance,Jones,Shipping,South San Francisco,California,US,United States of America,Americas
+196,Alana,Walsh,Shipping,South San Francisco,California,US,United States of America,Americas
+197,Kevin,Feeney,Shipping,South San Francisco,California,US,United States of America,Americas
+198,Donald,OConnell,Shipping,South San Francisco,California,US,United States of America,Americas
+199,Douglas,Grant,Shipping,South San Francisco,California,US,United States of America,Americas
+103,Alexander,James,IT,Southlake,Texas,US,United States of America,Americas
+104,Bruce,Miller,IT,Southlake,Texas,US,United States of America,Americas
+105,David,Williams,IT,Southlake,Texas,US,United States of America,Americas
+106,Valli,Jackson,IT,Southlake,Texas,US,United States of America,Americas
+107,Diana,Nguyen,IT,Southlake,Texas,US,United States of America,Americas
+204,Hermann,Brown,Public Relations,Munich,Bavaria,DE,Germany,Europe
+203,Susan,Jacobs,Human Resources,London,,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+145,John,Singh,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+146,Karen,Partners,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+147,Alberto,Errazuriz,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+148,Gerald,Cambrault,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+149,Eleni,Zlotkey,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+150,Sean,Tucker,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+151,David,Bernstein,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+152,Peter,Hall,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+153,Christopher,Olsen,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+154,Nanette,Cambrault,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+155,Oliver,Tuvault,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+156,Janette,King,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+157,Patrick,Sully,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+158,Allan,McEwen,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+159,Lindsey,Smith,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+160,Louise,Doran,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+161,Sarath,Sewall,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+162,Clara,Vishney,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+163,Danielle,Greene,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+164,Mattea,Marvins,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+165,David,Lee,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+166,Sundar,Ande,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+167,Amit,Banda,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+168,Lisa,Ozer,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+169,Harrison,Bloom,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+170,Tayler,Fox,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+171,William,Smith,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+172,Elizabeth,Bates,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+173,Sundita,Kumar,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+174,Ellen,Abel,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+175,Alyssa,Hutton,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+176,Jonathon,Taylor,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+177,Jack,Livingston,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
+179,Charles,Johnson,Sales,Oxford,Oxford,GB,United Kingdom of Great Britain and Northern Ireland,Europe
