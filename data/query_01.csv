@@ -1,0 +1,108 @@
+employee_id,first_name,last_name,department_id,department_name,job_id,job_title,salary,min_salary,max_salary
+100,Steven,King,90,Executive,AD_PRES,President,24000,20080,40000
+101,Neena,Yang,90,Executive,AD_VP,Administration Vice President,17000,15000,30000
+102,Lex,Garcia,90,Executive,AD_VP,Administration Vice President,17000,15000,30000
+145,John,Singh,80,Sales,SA_MAN,Sales Manager,14000,10000,20080
+146,Karen,Partners,80,Sales,SA_MAN,Sales Manager,13500,10000,20080
+201,Michael,Martinez,20,Marketing,MK_MAN,Marketing Manager,13000,9000,15000
+108,Nancy,Gruenberg,100,Finance,FI_MGR,Finance Manager,12008,8200,16000
+205,Shelley,Higgins,110,Accounting,AC_MGR,Accounting Manager,12008,8200,16000
+147,Alberto,Errazuriz,80,Sales,SA_MAN,Sales Manager,12000,10000,20080
+168,Lisa,Ozer,80,Sales,SA_REP,Sales Representative,11500,6000,12008
+174,Ellen,Abel,80,Sales,SA_REP,Sales Representative,11000,6000,12008
+114,Den,Li,30,Purchasing,PU_MAN,Purchasing Manager,11000,8000,15000
+148,Gerald,Cambrault,80,Sales,SA_MAN,Sales Manager,11000,10000,20080
+149,Eleni,Zlotkey,80,Sales,SA_MAN,Sales Manager,10500,10000,20080
+162,Clara,Vishney,80,Sales,SA_REP,Sales Representative,10500,6000,12008
+150,Sean,Tucker,80,Sales,SA_REP,Sales Representative,10000,6000,12008
+156,Janette,King,80,Sales,SA_REP,Sales Representative,10000,6000,12008
+169,Harrison,Bloom,80,Sales,SA_REP,Sales Representative,10000,6000,12008
+204,Hermann,Brown,70,Public Relations,PR_REP,Public Relations Representative,10000,4500,10500
+170,Tayler,Fox,80,Sales,SA_REP,Sales Representative,9600,6000,12008
+151,David,Bernstein,80,Sales,SA_REP,Sales Representative,9500,6000,12008
+163,Danielle,Greene,80,Sales,SA_REP,Sales Representative,9500,6000,12008
+157,Patrick,Sully,80,Sales,SA_REP,Sales Representative,9500,6000,12008
+103,Alexander,James,60,IT,IT_PROG,Programmer,9000,4000,10000
+158,Allan,McEwen,80,Sales,SA_REP,Sales Representative,9000,6000,12008
+152,Peter,Hall,80,Sales,SA_REP,Sales Representative,9000,6000,12008
+109,Daniel,Faviet,100,Finance,FI_ACCOUNT,Accountant,9000,4200,9000
+175,Alyssa,Hutton,80,Sales,SA_REP,Sales Representative,8800,6000,12008
+176,Jonathon,Taylor,80,Sales,SA_REP,Sales Representative,8600,6000,12008
+177,Jack,Livingston,80,Sales,SA_REP,Sales Representative,8400,6000,12008
+206,William,Gietz,110,Accounting,AC_ACCOUNT,Public Accountant,8300,4200,9000
+121,Adam,Fripp,50,Shipping,ST_MAN,Stock Manager,8200,5500,8500
+110,John,Chen,100,Finance,FI_ACCOUNT,Accountant,8200,4200,9000
+153,Christopher,Olsen,80,Sales,SA_REP,Sales Representative,8000,6000,12008
+120,Matthew,Weiss,50,Shipping,ST_MAN,Stock Manager,8000,5500,8500
+159,Lindsey,Smith,80,Sales,SA_REP,Sales Representative,8000,6000,12008
+122,Payam,Kaufling,50,Shipping,ST_MAN,Stock Manager,7900,5500,8500
+112,Jose Manuel,Urman,100,Finance,FI_ACCOUNT,Accountant,7800,4200,9000
+111,Ismael,Sciarra,100,Finance,FI_ACCOUNT,Accountant,7700,4200,9000
+160,Louise,Doran,80,Sales,SA_REP,Sales Representative,7500,6000,12008
+154,Nanette,Cambrault,80,Sales,SA_REP,Sales Representative,7500,6000,12008
+171,William,Smith,80,Sales,SA_REP,Sales Representative,7400,6000,12008
+172,Elizabeth,Bates,80,Sales,SA_REP,Sales Representative,7300,6000,12008
+164,Mattea,Marvins,80,Sales,SA_REP,Sales Representative,7200,6000,12008
+155,Oliver,Tuvault,80,Sales,SA_REP,Sales Representative,7000,6000,12008
+178,Kimberely,Grant,,,SA_REP,Sales Representative,7000,6000,12008
+161,Sarath,Sewall,80,Sales,SA_REP,Sales Representative,7000,6000,12008
+113,Luis,Popp,100,Finance,FI_ACCOUNT,Accountant,6900,4200,9000
+165,David,Lee,80,Sales,SA_REP,Sales Representative,6800,6000,12008
+123,Shanta,Vollman,50,Shipping,ST_MAN,Stock Manager,6500,5500,8500
+203,Susan,Jacobs,40,Human Resources,HR_REP,Human Resources Representative,6500,4000,9000
+166,Sundar,Ande,80,Sales,SA_REP,Sales Representative,6400,6000,12008
+179,Charles,Johnson,80,Sales,SA_REP,Sales Representative,6200,6000,12008
+167,Amit,Banda,80,Sales,SA_REP,Sales Representative,6200,6000,12008
+173,Sundita,Kumar,80,Sales,SA_REP,Sales Representative,6100,6000,12008
+202,Pat,Davis,20,Marketing,MK_REP,Marketing Representative,6000,4000,9000
+104,Bruce,Miller,60,IT,IT_PROG,Programmer,6000,4000,10000
+124,Kevin,Mourgos,50,Shipping,ST_MAN,Stock Manager,5800,5500,8500
+106,Valli,Jackson,60,IT,IT_PROG,Programmer,4800,4000,10000
+105,David,Williams,60,IT,IT_PROG,Programmer,4800,4000,10000
+200,Jennifer,Whalen,10,Administration,AD_ASST,Administration Assistant,4400,3000,6000
+107,Diana,Nguyen,60,IT,IT_PROG,Programmer,4200,4000,10000
+184,Nandita,Sarchand,50,Shipping,SH_CLERK,Shipping Clerk,4200,2500,5500
+185,Alexis,Bull,50,Shipping,SH_CLERK,Shipping Clerk,4100,2500,5500
+192,Sarah,Bell,50,Shipping,SH_CLERK,Shipping Clerk,4000,2500,5500
+193,Britney,Everett,50,Shipping,SH_CLERK,Shipping Clerk,3900,2500,5500
+188,Kelly,Chung,50,Shipping,SH_CLERK,Shipping Clerk,3800,2500,5500
+137,Renske,Ladwig,50,Shipping,ST_CLERK,Stock Clerk,3600,2008,5000
+189,Jennifer,Dilly,50,Shipping,SH_CLERK,Shipping Clerk,3600,2500,5500
+141,Trenna,Rajs,50,Shipping,ST_CLERK,Stock Clerk,3500,2008,5000
+186,Julia,Dellinger,50,Shipping,SH_CLERK,Shipping Clerk,3400,2500,5500
+133,Jason,Mallin,50,Shipping,ST_CLERK,Stock Clerk,3300,2008,5000
+129,Laura,Bissot,50,Shipping,ST_CLERK,Stock Clerk,3300,2008,5000
+194,Samuel,McLeod,50,Shipping,SH_CLERK,Shipping Clerk,3200,2500,5500
+180,Winston,Taylor,50,Shipping,SH_CLERK,Shipping Clerk,3200,2500,5500
+138,Stephen,Stiles,50,Shipping,ST_CLERK,Stock Clerk,3200,2008,5000
+125,Julia,Nayer,50,Shipping,ST_CLERK,Stock Clerk,3200,2008,5000
+196,Alana,Walsh,50,Shipping,SH_CLERK,Shipping Clerk,3100,2500,5500
+181,Jean,Fleaur,50,Shipping,SH_CLERK,Shipping Clerk,3100,2500,5500
+142,Curtis,Davies,50,Shipping,ST_CLERK,Stock Clerk,3100,2008,5000
+115,Alexander,Khoo,30,Purchasing,PU_CLERK,Purchasing Clerk,3100,2500,5500
+197,Kevin,Feeney,50,Shipping,SH_CLERK,Shipping Clerk,3000,2500,5500
+187,Anthony,Cabrio,50,Shipping,SH_CLERK,Shipping Clerk,3000,2500,5500
+190,Timothy,Venzl,50,Shipping,SH_CLERK,Shipping Clerk,2900,2500,5500
+134,Michael,Rogers,50,Shipping,ST_CLERK,Stock Clerk,2900,2008,5000
+116,Shelli,Baida,30,Purchasing,PU_CLERK,Purchasing Clerk,2900,2500,5500
+183,Girard,Geoni,50,Shipping,SH_CLERK,Shipping Clerk,2800,2500,5500
+195,Vance,Jones,50,Shipping,SH_CLERK,Shipping Clerk,2800,2500,5500
+117,Sigal,Tobias,30,Purchasing,PU_CLERK,Purchasing Clerk,2800,2500,5500
+130,Mozhe,Atkinson,50,Shipping,ST_CLERK,Stock Clerk,2800,2008,5000
+139,John,Seo,50,Shipping,ST_CLERK,Stock Clerk,2700,2008,5000
+126,Irene,Mikkilineni,50,Shipping,ST_CLERK,Stock Clerk,2700,2008,5000
+199,Douglas,Grant,50,Shipping,SH_CLERK,Shipping Clerk,2600,2500,5500
+143,Randall,Matos,50,Shipping,ST_CLERK,Stock Clerk,2600,2008,5000
+118,Guy,Himuro,30,Purchasing,PU_CLERK,Purchasing Clerk,2600,2500,5500
+198,Donald,OConnell,50,Shipping,SH_CLERK,Shipping Clerk,2600,2500,5500
+182,Martha,Sullivan,50,Shipping,SH_CLERK,Shipping Clerk,2500,2500,5500
+119,Karen,Colmenares,30,Purchasing,PU_CLERK,Purchasing Clerk,2500,2500,5500
+191,Randall,Perkins,50,Shipping,SH_CLERK,Shipping Clerk,2500,2500,5500
+131,James,Marlow,50,Shipping,ST_CLERK,Stock Clerk,2500,2008,5000
+144,Peter,Vargas,50,Shipping,ST_CLERK,Stock Clerk,2500,2008,5000
+140,Joshua,Patel,50,Shipping,ST_CLERK,Stock Clerk,2500,2008,5000
+127,James,Landry,50,Shipping,ST_CLERK,Stock Clerk,2400,2008,5000
+135,Ki,Gee,50,Shipping,ST_CLERK,Stock Clerk,2400,2008,5000
+128,Steven,Markle,50,Shipping,ST_CLERK,Stock Clerk,2200,2008,5000
+136,Hazel,Philtanker,50,Shipping,ST_CLERK,Stock Clerk,2200,2008,5000
+132,TJ,Olson,50,Shipping,ST_CLERK,Stock Clerk,2100,2008,5000
