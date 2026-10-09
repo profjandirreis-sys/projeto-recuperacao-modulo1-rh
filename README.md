@@ -198,4 +198,6 @@ Cada etapa foi desenvolvida em uma *branch* própria (`feature/consultas-sql`, `
 
 ## 11. Vídeo de apresentação
 
-🎥 Link do vídeo: _(adicionar o link aqui)_
+🎥 **Vídeo de apresentação (Google Drive):** [Recuperacao_Paralela_Modulo_01_Jandir_Reis.mp4](https://drive.google.com/file/d/1Nbxb_gSYleP7bY8R6t3Sy7RlTERmerkc/view?usp=sharing)
+
+No vídeo apresento a base de dados escolhida e o objetivo de negócio, as consultas SQL no FreeSQL, a análise em Python, os principais insights da EDA, a relevância dos outliers e as análises sugeridas para avaliar a faixa salarial de novos colaboradores.
